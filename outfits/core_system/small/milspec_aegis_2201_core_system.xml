@@ -10,7 +10,7 @@
   <gfx_store>core_system_shield_s1.webp</gfx_store>
   <priority>3</priority>
  </general>
- <specific type="sodification">
+ <specific type="modification">
   <cpu_max>19</cpu_max>
   <energy>150</energy>
   <energy_regen>7</energy_regen>
